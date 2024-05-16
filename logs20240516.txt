@@ -1,0 +1,5 @@
+2024-05-16 19:56:16.881 +06:00 [INF] Executing ViewResult, running view Index.
+2024-05-16 19:56:17.081 +06:00 [INF] Executed ViewResult - view Index executed in 200.2881ms.
+2024-05-16 19:56:17.091 +06:00 [INF] HTTP GET / responded 200 in 9145.8575 ms
+2024-05-16 19:56:18.556 +06:00 [INF] Executing ViewResult, running view Index.
+2024-05-16 19:56:18.570 +06:00 [INF] Executed ViewResult - view Index executed in 15.2277ms.
